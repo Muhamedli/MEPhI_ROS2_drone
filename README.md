@@ -50,7 +50,7 @@ ros2 topic list
 
 Проверьте работу лидара путем вывода получаемой информации в терминал командой 
 ```
-ros2 topich echo /scan
+ros2 topic echo /scan
 ```
 Запустите `rviz`:
 ```
